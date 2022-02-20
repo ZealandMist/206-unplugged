@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Michael Wheeler",
+    "image_url": "https://d2eyrv63e6x6lp.cloudfront.net/wp-content/uploads/2015/02/20141833/Mike-Wheeler.jpg",
+    "title": "CTO / Co-founder",
+    "bio": "Mike has been programming since his dad bought him an Apple II when he was 12, and he is as passionate about the craft of programming as he is about building and supporting a quality business. He came to G2 from TapJoy, where he helped to launch a mobile webproduct to an audience of more than 3 million users. Mike also spent four years on the BigMachines team, harnessing the latest web standards to design, build, and launch innovative web applications. When he isn’t applying technological know-how to business problems, Mike can usually be found dancing lindy hop at one of Chicago’s many jazz clubs, or training at a Capoeira academy."
+  },
+  {
+    "name": "Hamed Asghari",
+    "image_url": "https://d2eyrv63e6x6lp.cloudfront.net/wp-content/uploads/2015/07/20200159/Asghari2940-high-res.jpg",
+    "title": "Application Architect",
+    "bio": "Hamed has been working as a back-end developer since 2011. His passions are writing optimized, modularized code and learning elegant designpatterns. He spends most of his time working in Ruby, Javascript and Go. When he’s not coding, Hamed can be found watching or playing soccer, organizing his tracksuit collection, and de-seeding pomegranates."
+  },
+  {
+    "name": "Lorelei Pang",
+    "image_url": "https://en.gravatar.com/userimage/171969812/213690114f6c79311a7fadb969427f57.png?size=200",
+    "title": "Software Engineer",
+    "bio": "Lorelei studied Computer Science at the University of Illinois in Urbana-Champaign, where her passion for dynamic problem-solving led her to seek a startup environment, and her love of awesome things led her to G2. When not in front of a computer, she can be found playing card and board games, making music, or moving towards a computer to do those same things electronically."
+  },
+  {
+    "name": "Dan Knox",
+    "image_url": "https://media.g2crowd.com/wp-content/uploads/2018/06/18085553/9N9B3247.jpg",
+    "title": "Sr. Director of Engineering",
+    "bio": "Dan has enjoyed being paid to do something that he loves, building software.  He has 2 basic types of shirts those with a Zelda reference and those with a bicycle.  Other than that he spends a lot of time with his family telling horrible dad jokes that get plenty of eye rolls."
+  },
+  {
+    "name": "Eugene Lorman",
+    "image_url": "https://s.gravatar.com/avatar/ef3d1b4fe28542cfb9ea161305f7a2fc?s",
+    "title": "Engineering Manager",
+    "bio": "Eugene joined G2 to get away from PHP and e-commerce and hasn't looked back. He is often seen walking barefoot about the office. Free time is spent playing with his kids or traveling the globe."
+  },
+  {
+    "name": "Justin Daniel",
+    "image_url": "https://gravatar.com/avatar/eabb67d6446dcc2e9db0c72e3121908d",
+    "title": "Software Engineer",
+    "bio": "Justin is a scientist and philosopher by nature whose background is in teaching and research. He fell in love with programming 2 years ago, boldly made a career change, and has never looked back. His favorite parts of programming are design abstractions and building features users love."
+  },
+  {
+    "name": "Megan Wade",
+    "image_url": "https://en.gravatar.com/userimage/184279105/24e9c928f32645aa142e6639a6c27cb1.png?size=200",
+    "title": "Jr. Software Engineer",
+    "bio": "Megan is passionate about learning and enjoys exploring new ways of doing things. She loves that programming keeps her on her toes and allows her to bring ideas to life. Some of her other favorite things to do include hiking, scuba diving, going to museums, and spending time with her family."
+  },
+  {
+    "name": "Ed Ishman",
+    "image_url": "https://sdk.bitmoji.com/render/panel/74199580-3d4e-4477-8454-45c0e64aaa76-1b9e85b7-4f20-49a8-ad9c-07cc913eedaf-v1.png?transparent=1&palette=1",
+    "title": "Engineering Manager",
+    "bio": "Ed is a seasoned Leader who is passionate about providing customer value, and helping others learn something new. He is married and part of the Three Daughters club.  His daughters keep him grounded and even created his bitmoji that was required for the G2 onboarding process!"
+  },
+  {
+    "name": "Nermin Dibek",
+    "image_url": "https://www.gravatar.com/avatar/605df0e7ca6f821613780f13639f9e86?s=200",
+    "title": "Senior Software Engineer",
+    "bio": "Nermin comes from tiny European country Bosnia, and his first exposure to programming was back in middle school where he hacked his Commodore 64 to render Cyrillic instead of Latin alphabet.  Somehow ended up in USA during early 90s and was lucky enough to have wonderful career as a software developer writing programs for engineering, telecom, healthcare, finance, retail, etc.  Nermin is a passionate proponent for agility, communication, self-empowered teams, corporate culture and technical excellence through delivering continuously tested code in production that satisfies product goals.  In personal life Nermin has 3 wonderful kids, enjoys watching football (some here call that sport soccer, but they are wrong)"
+  },
+  {
+    "name": "Travis Buckley",
+    "image_url": "https://sdk.bitmoji.com/render/panel/5ddc9e4c-15f5-4da9-8b03-b399014c7ef4-d896b451-6714-4fa1-82ec-2b0ea4e670cb-v1.png?transparent=1&palette=1",
+    "title": "Software Engineer",
+    "bio": "Biology grad turned web developer, Travis likes to spend his time outside of work on cars, basketball, and hanging with his wife and dog."
+  },
+  {
+    "name": "Ankesh Thakur",
+    "image_url": "https://avatars.githubusercontent.com/u/1591848?s=400&v=4",
+    "title": "Platform Architect",
+    "bio": "Ankesh likes to build technology products that solve our daily problems. He is always up for a conversation on new ideas and perspectives. If not found around his computer, you should search for him on a nearby badminton court."
+  },
+  {
+    "name": "Vincent Goyette",
+    "image_url": "https://www.gravatar.com/avatar/a194c9fef5a1eb76c130e45bb26599b6",
+    "title": "Engineering Intern",
+    "bio": "Vincent first picked up programming in college, excited by the creative and expressive ways he could build software projects. If you don't catch him working at his computer, you can probably find him at the nearest golf course chasing his ball around or jumping in a lake with his dog, Cash."
+  },
+  {
+    "name": "Carla Stickler",
+    "image_url": "https://avatars.githubusercontent.com/sticklercarla",
+    "title": "Jr. Software Engineer",
+    "bio": "Carla is a Broadway actor turned programmer. In her past life she performed in Wicked as the green witch and taught people how to sing. Now she loves living in Chicago, hanging out with her husband and dog in their new house and enjoying a normal life with weekends free."
+  },
+  {
+    "name": "Ka-Jana Justin",
+    "image_url": "https://sdk.bitmoji.com/render/panel/a41da708-81e9-4ec3-9364-9d8748f7063d-604aadf3-7066-47ad-892d-594d43e3cd1c-v1.png?transparent=1&palette=1",
+    "title": "DevOps Engineer",
+    "bio": "Kj is a scientist turned techie. Has always had a passion for technology, but studied Molecular & Cell Bio in College. Kj has a dog named Blitz who is a German Shepherd/Husky Mix. Loves basketball and his favorite team is the Los Angeles Lakers and favorite player is the late and great Kobe Bryant. Kj loves taking naps and messing around with Raspberry Pis in his free time, along with watching anything Marvel Related."
+  },
+  {
+    "name": "Vatsal Singh",
+    "image_url": "https://avatars.githubusercontent.com/u/89844264?v=4",
+    "title": "Engineering Manager",
+    "bio": "Vatsal loves to learn about people, product, and processes. He believes in deep customer empathy. Outside of work, he enjoys the company of family and friends."
+  },
+  {
+    "name": "Jack Shuff",
+    "image_url": "https://avatars.githubusercontent.com/u/16825267?v=4",
+    "title": "Engineering Intern",
+    "bio": "Jack is a military veteran turned craft brewer, turned programmer. When not pursuing a computer science degree or doing dad stuff, he can usually be found in the kitchen, cooking for family and friends. Sometimes the dogs, if he drops something tasty."
+  },
+  {
+    "name": "Nick Petrie",
+    "image_url": "https://avatars.githubusercontent.com/nickptre",
+    "title": "Senior Software Engineer",
+    "bio": "Nick created his first interactive applications in grade school when he took a BASIC programming class. The experience was so much fun that he decided to make a career out of development. Today, besides programming, Nick enjoys spending time with his family, watching his favorite shows, playing (mostly) AAA RPG video games, and playing the piano."
+  },
+  {
+    "name": "Kurt Landrus",
+    "image_url": "https://avatars.githubusercontent.com/koctya",
+    "title": "Senior Software Engineer",
+    "bio": "Kurt is a Marine veteran, Started as a Electrical Engineer at IBM, and eventually converted to softare engineering, he enjoys learning all new things, Raspberry Pis, Picos, 3D printers. Wood and tools to bend it to my will and create fantastic things. Spending time with my amazing children."
+  },
+  {
+    "name": "Jesus Quezada-Guillen",
+    "image_url": "https://avatars.githubusercontent.com/jequeza",
+    "title": "Jr. Software Engineer",
+    "bio": "Jesus is a detail oriented, fast learner, team focused individual who is passionate about coding and bulding complex web applications. Aside from all things coding and programming, he enjoys spending time with his wife and three kids, playing and watching soccer, video gaming with friends, and cooking all sorts of delicious food."
+  },
+  {
+    "name": "Tomás Caraccia",
+    "image_url": "https://avatars.githubusercontent.com/sarodspirit",
+    "title": "Platform Architect",
+    "bio": "Tomás is a software engineer with a passion for building software that solves problems. He has worn many different hats in the software industry, from qa to devops and from architecture to product management. Besides loving code, he also performs music since his early teens, now focusing in playing Indian Classical music. Sportswise he enjoys playing golf with friends."
+  },
+  {
+    "name": "Anthony Elfering",
+    "image_url": "https://avatars.githubusercontent.com/akelfer",
+    "title": "Software Engineer",
+    "bio": "Anthony is a software engineer, Army veteran, and all-around good guy. He's also an enthusiastic bread baker and woodworker."
+  },
+  {
+    "name": "Manjunath Prakash",
+    "image_url": "https://avatars.githubusercontent.com/ManjunathPrakash",
+    "title": "Senior Software Engineer",
+    "bio": "Manjunath is a minimalist software engineer who is passionate about coding. Some of his other favourite things to do include reading, traveling, trekking, watching shows and spending time with his family & friends."
+  }
+]
